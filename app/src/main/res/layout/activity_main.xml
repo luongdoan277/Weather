@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_weather"
+    tools:context=".MainActivity">
+
+<!--    <TextView-->
+<!--        android:id="@+id/tvCountry"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Hà Nội"-->
+<!--        android:textSize="70dp"-->
+<!--        android:textColor="#fff"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_marginTop="80dp"/>-->
+<!--    <TextView-->
+<!--        android:id="@+id/tvStatus"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="nhiều mây"-->
+<!--        android:textSize="25dp"-->
+<!--        android:textColor="#fff"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_below="@+id/tvCountry"/>-->
+<!--    <TextView-->
+<!--        android:id="@+id/Temperature"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="27"-->
+<!--        android:textSize="150dp"-->
+<!--        android:textColor="#fff"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_below="@+id/tvStatus"/>-->
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@id/Temperature"-->
+<!--        android:id="@+id/rcWeather"/>-->
+
+
+
+
+
+</RelativeLayout>
